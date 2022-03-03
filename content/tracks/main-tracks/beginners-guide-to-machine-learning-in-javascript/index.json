@@ -1,0 +1,69 @@
+{
+  "title": "Beginner's Guide to Machine Learning in JavaScript",
+  "description": "Beginner's Guide to Machine Learning in JavaScript",
+  "chapters": [
+    {
+      "title": "Introduction",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/0-intro"
+      ]
+    },
+    {
+      "title": "ml5",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/1-ml5/1-image-classification-with-mobilenet",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/1-ml5/2-webcam-image-classification",
+		"tracks/main-tracks/beginners-guide-to-machine-learning/1-ml5/3-object-detection"
+      ]
+    },
+    {
+      "title": "Feature Extractor",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/2-feature-extractor/1-transfer-learning-with-feature-extractor",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/2-feature-extractor/2-feature-extractor-classification",
+		"tracks/main-tracks/beginners-guide-to-machine-learning/2-feature-extractor/3-feature-extractor-regression",
+		"tracks/main-tracks/beginners-guide-to-machine-learning/2-feature-extractor/3-save-load-model"
+      ]
+    },
+    {
+      "title": "KNN Classification",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/3-knn-classification/1-knn-classification-part-1",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/3-knn-classification/2-knn-classification-part-2",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/3-knn-classification/3-knn-classification-part-3"
+      ]
+    },
+    {
+      "title": "Neural Networks",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/4-neural-network/1-train-your-own-neural-network",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/4-neural-network/2-save-neural-network-training-data",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/4-neural-network/3-save-neural-network-trained-model",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/4-neural-network/4-neural-network-regression"
+      ]
+    },
+    {
+      "title": "PoseNet",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/5-posenet/1-posenet",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/5-posenet/2-pose-classifier",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/5-posenet/3-pose-regression"
+      ]
+    },
+    {
+      "title": "Convolutional Neural Networks",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/6-convolutional-neural-network/1-neural-net-pixel-input",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/6-convolutional-neural-network/2-conv-neural-net-1",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/6-convolutional-neural-network/3-conv-neural-net-2",
+        "tracks/main-tracks/beginners-guide-to-machine-learning/6-convolutional-neural-network/4-conv-neural-net-3"
+      ]
+    },
+    {
+      "title": "DoodleNet",
+      "videos": [
+        "tracks/main-tracks/beginners-guide-to-machine-learning/7-doodlenet/1-classifying-drawings-with-doodlenet"
+      ]
+    }
+  ]
+}
